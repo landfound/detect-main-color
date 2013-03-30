@@ -1,3 +1,4 @@
+//uploaded to google code
 //#define SHOW_DEBUG_IMAGE
 #define WIN32_LEAN_AND_MEAN // Exclude rarely-used stuff from Windows headers
 //#include <stdio.h>
