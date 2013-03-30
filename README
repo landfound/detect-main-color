@@ -1,0 +1,6 @@
+1. Use the color picker in the following paper:
+    http://www.w3schools.com/tags/ref_colorpicker.asp
+2. Use the k-mean method to determain the color information
+3. the current "maincolor" provide two color information:
+    i) the 12 colors
+    ii)the 127 color clustering result
