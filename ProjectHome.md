@@ -1,0 +1,1 @@
+given an image, we try to detect its main color
